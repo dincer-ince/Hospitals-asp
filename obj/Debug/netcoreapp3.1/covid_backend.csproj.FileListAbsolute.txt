@@ -1,0 +1,134 @@
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.exe
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.deps.json
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.runtimeconfig.json
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.runtimeconfig.dev.json
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.pdb
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.csprojAssemblyReference.cache
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.AssemblyInfoInputs.cache
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.AssemblyInfo.cs
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.csproj.CoreCompileInputs.cache
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.RazorTargetAssemblyInfo.cache
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\staticwebassets\covid_backend.StaticWebAssets.Manifest.cache
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\staticwebassets\covid_backend.StaticWebAssets.xml
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.pdb
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.genruntimeconfig.cache
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.csproj.CopyComplete
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Sude YILDIRIM\Desktop\3.Sınıf\Güz Dönemi 2020-2021\Konumsal Veri Yönetimi\final_projects\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.exe
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.deps.json
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.runtimeconfig.json
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.runtimeconfig.dev.json
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\covid_backend.pdb
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.csproj.AssemblyReference.cache
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.AssemblyInfoInputs.cache
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.AssemblyInfo.cs
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.csproj.CoreCompileInputs.cache
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.MvcApplicationPartsAssemblyInfo.cache
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\staticwebassets\covid_backend.StaticWebAssets.Manifest.cache
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\staticwebassets\covid_backend.StaticWebAssets.xml
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\covid_backend.styles.css
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.RazorTargetAssemblyInfo.cache
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.csproj.CopyComplete
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.dll
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.pdb
+E:\taslakproj\veriyonetimi\covid_backend\obj\Debug\netcoreapp3.1\covid_backend.genruntimeconfig.cache
+E:\taslakproj\veriyonetimi\covid_backend\bin\Debug\netcoreapp3.1\package-lock.json
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\package-lock.json
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\covid_backend.exe
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\covid_backend.deps.json
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\covid_backend.runtimeconfig.json
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\covid_backend.runtimeconfig.dev.json
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\covid_backend.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\covid_backend.pdb
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\taslakproj\Hospitals-asp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.csproj.AssemblyReference.cache
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.AssemblyInfoInputs.cache
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.AssemblyInfo.cs
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.csproj.CoreCompileInputs.cache
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.MvcApplicationPartsAssemblyInfo.cache
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\staticwebassets\covid_backend.StaticWebAssets.Manifest.cache
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\staticwebassets\covid_backend.StaticWebAssets.xml
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\scopedcss\bundle\covid_backend.styles.css
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.RazorTargetAssemblyInfo.cache
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.csproj.CopyComplete
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.dll
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.pdb
+E:\taslakproj\Hospitals-asp\obj\Debug\netcoreapp3.1\covid_backend.genruntimeconfig.cache
